@@ -1,6 +1,8 @@
 [package]
 name = "decay"
 version = "0.1.0"
+description = "Game Engine using Vulkan"
 authors = ["Daniel Whelan <chobomuffin@gmail.com>", "Shervin Aflatooni <shervinaflatooni@gmail.com>"]
+license = "MIT"
 
 [dependencies]
