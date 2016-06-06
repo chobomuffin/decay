@@ -1,0 +1,6 @@
+[package]
+name = "decay"
+version = "0.1.0"
+authors = ["Daniel Whelan <chobomuffin@gmail.com>", "Shervin Aflatooni <shervinaflatooni@gmail.com>"]
+
+[dependencies]
